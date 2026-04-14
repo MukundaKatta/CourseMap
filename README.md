@@ -1,6 +1,6 @@
 # CourseMap — Course recommendation engine — content-based filtering, learning paths, topic matching
 
-Course recommendation engine — content-based filtering, learning paths, topic matching. CourseMap gives you a focused, inspectable implementation of that idea.
+Course recommendation engine — content-based filtering, learning paths, topic matching.
 
 ## Why CourseMap
 
